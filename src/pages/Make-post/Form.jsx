@@ -34,6 +34,11 @@ const Form = () => {
       username: user?.displayName,
       id: user?.uid,
     });
+    //clears the form after submitting
+  
+
+
+
   };
 
   return (
